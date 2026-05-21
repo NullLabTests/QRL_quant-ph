@@ -33,6 +33,8 @@ PennyLane Demobash
 
 cd pennylane_support
 python pennylane_qrl_agent.py
+```
+
 
 Built for the @qiskit
  and @PennyLaneAI
