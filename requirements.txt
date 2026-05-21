@@ -1,0 +1,7 @@
+qiskit>=1.2.0
+qiskit-machine-learning>=0.8.0
+torch>=2.4.0
+gymnasium>=1.0.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+pandas>=2.2.0
